@@ -108,6 +108,8 @@ Attendance is *mandatory*. Please inform me via Slack direct message if you are 
 
 **PLEASE NOTE: 3 unexcused absences will result in your grade dropping 5%**
 
+If you need a medical absence excused, you must submit documentation to Deanna Rayment - deanna.rayment@nyu.edu - for the absence to be reviewed and considered excused.
+
 **Final Project 20%**
 
 Class will culminate with final projects. It is expected that these will be both technology and content driven. The final project will be built over the course of several weeks. This project must be completed, published, and presented.
