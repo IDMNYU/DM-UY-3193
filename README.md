@@ -9,7 +9,7 @@
 
 **Spring 2019 – Professor Sarah Dahnke**
 
-*Tuesday + Thursday 12:30 - 2:20,  2 MetroTech Center Room 817*
+*Tuesday + Thursday 2:30 - 4:20,  2 MetroTech Center Room 813*
 
 *Link to class Slack workspace: https://idmnyu.slack.com/ (Students will receive an invitation to this course's private channel.)*
 
@@ -17,7 +17,7 @@
 
 *NOTE: The preferred communication tool for this course is Slack. You may direct message me short questions and/or code snippets. If you find yourself needing to write long paragraphs, that is an indication you should be setting up an appointment to meet. Email should be used in instances where you may need to cc someone outside of our class or administrative NYU business related to grades, etc.*
 
-*Office hours are by appointment on Tuesdays or Thursdays before 12:20 or after 4:20. Please contact me at least 24 hours in advance to set up a time to meet.*
+*Office hours are by appointment on Tuesdays and Thursdays from 1:20-2:20.*
 
 ## A note about this syllabus
 This is a living document, as are the materials in this course repository. There are certain aspects of our course, such as our calendar or grading criteria, that will not differ from this syllabus unless there are extenuating circumstances. However, the pacing of this course may vary depending on student need, comprehension and technologies that are sometimes rapidly changing in the midst of our learning process. I will do everything in my power to update you on any changes ASAP (in class and via Slack) and to stay fully transparent about what you are expected to learn, produce, and share. Please engage in open communication, as I will do the same.
@@ -107,6 +107,8 @@ The midterm assignment will be a project that demonstrates a working knowledge s
 Attendance is *mandatory*. Please inform me via Slack direct message if you are going to miss a class. Showing up late for class or an excessive number of absences will adversely affect your grade. This class will be participatory, you are expected to participate in discussions and give feedback to other students both in class and participate with their projects. This (along with attendance) is 20% of your overall grade. Each student will be asked to do a 5-min presentation on a Learning Log throughout the semester, which is part of your participation grade.
 
 **PLEASE NOTE: 3 unexcused absences will result in your grade dropping 5%**
+
+If you need a medical absence excused, you must submit documentation to Deanna Rayment - deanna.rayment@nyu.edu - for the absence to be reviewed and considered excused.
 
 **Final Project 20%**
 

@@ -25,7 +25,7 @@
 
 1. Find a compelling web app. Test it, try to find its weaknesses. Decide why you like it. Decide what you’d improve upon. Put together an informal 2-3 minute presentation on this app. This presentation will count toward your class presentation points.
 
-2. Complete one [Learning Log](https://github.com/IDMNYU/dynamicwebappsfall18/blob/master/learninglogs.md) this week that will assist you as a refresher on the prerequisites for this class. Think about what you learned in the Intro class. Think about what you may have forgotten. Do you remember HTML/CSS? Did the Javascript Assessment reveal any gaps in your knowledge? If you feel fully up to speed, you may try an extension of one of these topics.
+2. Complete one [Learning Log](https://github.com/IDMNYU/DM-UY-3193/blob/master/learninglogs.md) this week that will assist you as a refresher on the prerequisites for this class. Think about what you learned in the Intro class. Think about what you may have forgotten. Do you remember HTML/CSS? Did the Javascript Assessment reveal any gaps in your knowledge? If you feel fully up to speed, you may try an extension of one of these topics.
 
 Some suggestions:
 
