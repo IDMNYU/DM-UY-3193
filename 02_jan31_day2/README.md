@@ -10,9 +10,9 @@
 
 ### Homework
 
-The following assignment will be due on Thursday. However, if you feel ready to tackle it now, please feel free. Otherwise, make sure you complete a Learning Log that covers concepts that are foundational to Javascript such as arrays, loops, functions.
+The following assignment will be due on Thursday. However, if you feel ready to tackle it now, please feel free. You do not need to submit anything yet; simply save your work in progress if you begin. Otherwise, make sure you complete a Learning Log that covers concepts that are foundational to Javascript such as arrays, loops, functions.
 
-For this assignment, please use a web-based editor such as [Repl.it](https://repl.it/) or [JsFiddle](https://jsfiddle.net/) to code and save your solutions. You will be printing the answers to the console. Submit the link to your work via NYU Classes.
+For this assignment, please use a web-based editor such as [Repl.it](https://repl.it/) or [JsFiddle](https://jsfiddle.net/) to code and save your solutions. You will be printing the answers to the console. 
 
 You'll create a simple word guessing game where the user gets infinite tries to guess the word (like Hangman without the hangman, or like Wheel of Fortune without the wheel and fortune).
 
