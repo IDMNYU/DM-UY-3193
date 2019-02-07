@@ -16,7 +16,7 @@ More foundational JS:
 
 * Make sure to submit the link to your Word Guesser Game v1 and your first self-assessment on NYU Classes
 
-* Edit your Word Guesser/Hangman game to be object oriented and more advanced. For this assignment, please submit a link to your web-based text editor (repl, jsfiddle, etc).
+* Edit your Word Guesser/Hangman game to be object oriented and more advanced. For this assignment, please submit a link to your web-based text editor (repl, jsfiddle, etc). NYU Classes will have a grading breakdown for this assignment.
   
   * The game selects a random word from a word list and makes that the secret word
   
