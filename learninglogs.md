@@ -28,7 +28,7 @@ Learning Logs Presentaton schedule:
 
 #### Feb 26: Celia
 
-### Feb 28: Wil
+#### Feb 28: Wil
 
 #### March 5: Joe-L
 
@@ -42,9 +42,9 @@ Learning Logs Presentaton schedule:
 
 #### March 26: Ikra
 
-### March 28: Egret
+#### March 28: Egret
 
-### April 2: Shahriar
+#### April 2: Shahriar
 
 #### April 2: Sophie
 
