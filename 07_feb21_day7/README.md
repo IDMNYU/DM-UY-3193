@@ -34,9 +34,9 @@ Create a module for each of the following:
 
 
 ```
-var setDifference = require('./set-difference');
+var setDifference = require('./set-difference.js');
 
-var setIntersection = require('./set-intersection');
+var setIntersection = require('./set-intersection.js');
 
 var set1 = ['dogs', 'cats', 'red', 'bananas', 'code', 'movies'];
 
