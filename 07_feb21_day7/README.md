@@ -55,7 +55,7 @@ console.log(intersection);
 
 ### Homework
 
-* For Tuesday: Set up a dummy Twitter account. You will have to set it up with a different email address than your main Twitter account if you already have one. We are going to use this as our Twitterbot, and each account will have its own unique API key.
+* For Tuesday: Set up a dummy Twitter account. You will have to set it up with a different email address than your main Twitter account if you already have one. We are going to use this as our Twitterbot, and each account will have its own unique API key. After creating your account, you will need to visit https://developer.twitter.com and apply for an access token. Make sure you fill out all fields, but you can indicate in all places possible that this is FOR EDUCATION! Do this a few days in advance of Tuesday's class in case there is a delay in the approval process.
 
 * Read [The Only node.js Introduction You Will Ever Need](https://codeburst.io/the-only-nodejs-introduction-youll-ever-need-d969a47ef219)
 
