@@ -34,9 +34,9 @@ Create a module for each of the following:
 
 
 ```
-var setDifference = require('./set-difference');
+var setDifference = require('./set-difference.js');
 
-var setIntersection = require('./set-intersection');
+var setIntersection = require('./set-intersection.js');
 
 var set1 = ['dogs', 'cats', 'red', 'bananas', 'code', 'movies'];
 
@@ -46,7 +46,7 @@ var difference = setDifference(set1, set2);
 
 var intersection = setIntersection(set1, set2);
 
-//should print an array with cats, red, bananas, movies, blue, rain as elements
+//should print an array with cats, red, bananas, movies, blue, horses, rain as elements
 console.log(difference);
 
 //should print an array with dogs and code as elements
@@ -55,7 +55,7 @@ console.log(intersection);
 
 ### Homework
 
-* For Tuesday: Set up a dummy Twitter account. You will have to set it up with a different email address than your main Twitter account if you already have one. We are going to use this as our Twitterbot, and each account will have its own unique API key.
+* For Tuesday: Set up a dummy Twitter account. You will have to set it up with a different email address than your main Twitter account if you already have one. We are going to use this as our Twitterbot, and each account will have its own unique API key. After creating your account, you will need to visit https://developer.twitter.com and apply for an access token. Make sure you fill out all fields, but you can indicate in all places possible that this is FOR EDUCATION! Do this a few days in advance of Tuesday's class in case there is a delay in the approval process.
 
 * Read [The Only node.js Introduction You Will Ever Need](https://codeburst.io/the-only-nodejs-introduction-youll-ever-need-d969a47ef219)
 
