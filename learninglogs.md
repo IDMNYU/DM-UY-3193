@@ -22,22 +22,37 @@ Post to Slack in the logs channel for this course. Begin message with "#LL: desc
 
 Learning Logs Presentaton schedule:
 
-#### Feb 19 & 21: Dougukan
+#### Feb 19: Dougukan
 
-#### Feb 26 & 28: Emily, Celia 
+#### Feb 21: Emily
 
-#### March 5 & 7: Wil, Joe-L
+#### Feb 26: Celia
 
-#### March 12 & 14: Richael
+#### Feb 28: Wil
+
+#### March 5: Joe-L
+
+#### March 7: Richael
+
+#### March 12: no presentations
+
+#### March 14: no presentations
 
 #### March 19 & 21: NO CLASSES: Spring Break
 
-#### March 26 & 28: Egret, Shahriar
+#### March 26: Ikra
 
-#### April 2 & 4: Ikra, Sophie
+#### March 28: Egret
 
-#### April 9 & 11: Luvneesh, Shehara
+#### April 2: Shahriar
 
-#### April 16 & 18: Billy
+#### April 2: Sophie
 
-#### April 23 & 25: Bertin
+#### April 4: Luvneesh
+
+#### April 9: Shehara
+
+#### April 11: Billy
+
+#### April 16: Bertin
+
