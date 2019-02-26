@@ -27,7 +27,7 @@
 
 ### Homework
 
-* Make your Twitterbot do something cool! Push the source code to Github with a helpful README. Make sure to include a [.gitignore](https://github.com/github/gitignore) that will [ignore your config](https://help.github.com/en/articles/ignoring-files#create-a-local-gitignore) and node packages
+* Make your Twitterbot do something cool! Push the source code to Github with a helpful README. Come to class Thursday with the code ready!
 
 * Find at least one example of an interesting bot that you find inspiring. It could be on Twitter, but bots also exist on Facebook Messenger, Slack, Google Hangouts, etc.
 
