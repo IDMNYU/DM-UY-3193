@@ -14,6 +14,8 @@
     
 ### Resources
 
+* [Creating a .gitignore tutorial](https://medium.com/@haydar_ai/learning-how-to-git-ignoring-files-and-folders-using-gitignore-177556afdbe3)
+
 * [Twit](https://www.npmjs.com/package/twit)
 
 * [Why Are Bots Unable to Check Boxes?](http://mentalfloss.com/article/575112/why-are-bots-unable-check-i-am-not-robot-checkboxes?utm_source=digg&utm_medium=email)
