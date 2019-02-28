@@ -28,4 +28,12 @@
 
 ### Homework
 
+* Get our Twitterbot #1 pushed to Github and submitted. 
+
 * GET STARTED ON THAT BOT
+   
+   * First, outline concept: What does your bot do? What platform is it on? How do you interact with it?
+   
+   * Bot has to be based in node.js, and it has to be automated.
+   
+   * Skeleton code toward your project.
