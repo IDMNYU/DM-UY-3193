@@ -30,9 +30,9 @@ Learning Logs Presentaton schedule:
 
 #### Feb 28: Wil
 
-#### March 5: Joe-L
+#### March 5: no presentations
 
-#### March 7: Richael
+#### March 7: Joe-L & Richael
 
 #### March 12: no presentations
 

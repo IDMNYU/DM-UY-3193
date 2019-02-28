@@ -17,7 +17,9 @@
 
 *NOTE: The preferred communication tool for this course is Slack. You may direct message me short questions and/or code snippets. If you find yourself needing to write long paragraphs, that is an indication you should be setting up an appointment to meet. Email should be used in instances where you may need to cc someone outside of our class or administrative NYU business related to grades, etc.*
 
-*Office hours are by appointment on Tuesdays and Thursdays from 1:20-2:20.*
+*Office hours are by appointment on Tuesdays and Thursdays from 1:20-2:20. You may set up an appointment by using [this Calendly](https://calendly.com/sarahrosedahnke)*
+
+*Our grad assistant Moeezo will be holding office hours on Fridays from 10am-6pm. You can [book an appointment with her here](https://calendar.google.com/calendar/selfsched?sstoken=UU9qT1RXc1ZrTkZRfGRlZmF1bHR8MDRmNTVjZjNiMmQ3MWNmNGE4MWYyNTMwYWIwNzljMmI).*
 
 ## A note about this syllabus
 This is a living document, as are the materials in this course repository. There are certain aspects of our course, such as our calendar or grading criteria, that will not differ from this syllabus unless there are extenuating circumstances. However, the pacing of this course may vary depending on student need, comprehension and technologies that are sometimes rapidly changing in the midst of our learning process. I will do everything in my power to update you on any changes ASAP (in class and via Slack) and to stay fully transparent about what you are expected to learn, produce, and share. Please engage in open communication, as I will do the same.
