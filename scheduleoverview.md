@@ -12,9 +12,9 @@
 
 #### Feb 26 & 28: Twitterbot 
 
-#### March 5 & 7: Midterm Project Workshop
+#### March 7: Midterm Project Workshop
 
-#### March 12 & 14: Midterm Project Presentations
+#### March 14: Midterms Due!! Project Presentations
 
 #### March 19 & 21: NO CLASSES: Spring Break
 
