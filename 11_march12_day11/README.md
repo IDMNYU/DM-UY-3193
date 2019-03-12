@@ -10,6 +10,8 @@
 
 * Questions/assistance/progress reports
 
+* Make sure to push your code to Github and submit on NYU Classes by the start of class on Thursday. March 14 is the official due date for your midterm.
+
 
 ### Homework
 
