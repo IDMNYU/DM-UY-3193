@@ -22,7 +22,7 @@
 
 #### April 2 & 4: Building an API in node/Express, Rendering views in Express
 
-#### April 9 & 11: JSON as a database, Mini Express Project
+#### April 9 & 11: JSON as a database, Mini Express Project, Guest Lecture: Dan Phiffer
 
 #### April 16 & 18: Express Projects continued
 
