@@ -42,9 +42,9 @@ Learning Logs Presentaton schedule:
 
 #### March 26: Ikra
 
-#### March 28: Egret
+#### March 28: no presentations
 
-#### April 2: Shahriar
+#### April 2: Egret & Shahriar
 
 #### April 2: Sophie
 
