@@ -44,11 +44,9 @@ Learning Logs Presentaton schedule:
 
 #### March 28: no presentations
 
-#### April 2: Egret & Shahriar
+#### April 2: Egret & Sophie
 
-#### April 2: Sophie
-
-#### April 4: Luvneesh
+#### April 4: Luvneesh & Shahriar
 
 #### April 9: Shehara
 
