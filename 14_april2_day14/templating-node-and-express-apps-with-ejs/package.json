@@ -1,0 +1,15 @@
+{
+  "name": "templating-with-ejs",
+  "version": "1.0.0",
+  "description": "A sample app for templating with EJS, Node, and Express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fady Makram <fady@coligo.io>",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
