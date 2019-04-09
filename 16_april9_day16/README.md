@@ -10,7 +10,7 @@
 
 * Writing data from the view to JSON
 
-    * Example via [Jeremy Rivera](https://github.com/jeremy8rivera/dynwebapp_F18/tree/master/Assignment%205)
+    * Example via [Jeremy Rivera](https://github.com/jeremy8rivera/dynwebapp_F18/tree/master/Assignment%207)
 
 ### Homework
 
