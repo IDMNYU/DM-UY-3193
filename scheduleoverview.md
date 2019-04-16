@@ -24,11 +24,11 @@
 
 #### April 9 & 11: JSON as a database, Mini Express Project, Guest Lecture: Dan Phiffer
 
-#### April 16 & 18: Express Projects continued
+#### April 16 & 18: socket.io
 
-#### April 23 & 25: socket.io
+#### April 23 & 25: Promises, Firebase
 
-#### April 30: Firebase, Deployment
+#### April 30: Deployment
 
 #### May 2: Final Project Workshop
 
