@@ -4,14 +4,27 @@
 
 * Final projects are open
 
-* Databases with Firebase
-
-    * [How to Firebase](https://howtofirebase.com/save-and-query-firebase-data-ed73fb8c6e3a)
+* Deployment!
     
-    * [What is Firebase?](https://www.youtube.com/watch?list=PLRqwX-V7Uu6agS82Le9lLCBbeaW8inATT&v=JrHT1iqSrAQ)
+    * What does it mean to deploy an app?
     
-    * Bonus practice: [Saving p5.js Drawings to Firebase](https://www.youtube.com/watch?v=RUSvMxxm_Jo&index=4&list=PLRqwX-V7Uu6agS82Le9lLCBbeaW8inATT)
-    NOTE: This involves doing all the heavy lifting on the front end, and simply connecting to Firebase to save data, rather than our code-alongs, which utilize node.js.
+    * Deploying node.js apps to Heroku (free service)
+    
+        * [Get the Heroku Toolbelt](https://blog.heroku.com/the_heroku_toolbelt)
+        
+        * [.gitignore templates](https://github.com/github/gitignore)
+    
+        * [One guide to this process](https://scotch.io/tutorials/how-to-deploy-a-node-js-app-to-heroku)
+        
+        * [Deployment instructions on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
+    
+    * [Deploying a bot](https://shiffman.net/a2z/bot-heroku/)
+    
+        * [Dynos](https://devcenter.heroku.com/articles/dynos#dyno-configurations) 
+        
+        * [Heroku Scheduler](https://devcenter.heroku.com/articles/scheduler)
+    
+    * Alternatives to Heroku (there are even more than this): [Digital Ocean](https://www.digitalocean.com/), [Azure](https://docs.microsoft.com/en-us/azure/devops/pipelines/targets/webapp?view=vsts&tabs=yaml), [AWS](https://aws.amazon.com/getting-started/projects/deploy-nodejs-web-app/) or [AWS Elastic Beanstalk](https://docs.aws.amazon.com/gettingstarted/latest/deploy/overview.html)[Nanobox](https://nanobox.io/), [Google Cloud](https://cloud.google.com/nodejs/)
 
 
 ### Homework
