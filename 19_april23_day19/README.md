@@ -2,7 +2,7 @@
 
 * Round robin share: looking at socket.io apps
 
-* Final projects are open
+* [Final projects](https://github.com/IDMNYU/DM-UY-3193/blob/master/finalprojects.md) are open
 
 * Deployment!
     
