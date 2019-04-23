@@ -18,7 +18,7 @@
         
         * [Deployment instructions on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
         
-        * [Preparing codebase for Heroku](https://devcenter.heroku.com/articles/preparing-a-codebase-for-heroku-deployment
+        * [Preparing codebase for Heroku](https://devcenter.heroku.com/articles/preparing-a-codebase-for-heroku-deployment)
         
         * [Deployig a socket.io app](https://devcenter.heroku.com/articles/node-websockets#option-2-socket-io)
     
