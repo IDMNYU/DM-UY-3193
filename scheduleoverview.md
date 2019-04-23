@@ -26,9 +26,9 @@
 
 #### April 16 & 18: socket.io
 
-#### April 23 & 25: Promises, Firebase
+#### April 23 & 25: Deployment, Promises, Firebase
 
-#### April 30: Deployment
+#### April 30: Final project report back + remaining topics by request
 
 #### May 2: Final Project Workshop
 
