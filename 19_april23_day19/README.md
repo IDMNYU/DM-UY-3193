@@ -29,7 +29,7 @@
 
 ### Homework
 
-* Final project brainstorm! Write down at least 3 ideas of applications you'd like to build for your final project, and decide which you'd like to pursue. Talk with others in the class and/or use our Slack channel to communicate and decide if you'd like to work alone or team up with another classmate.
+* Final project brainstorm! Write down at least 3 ideas of applications you'd like to build for your final project, and decide which you'd like to pursue. Talk with others in the class and/or use our Slack channel to communicate and decide if you'd like to work alone or team up with another classmate. Bring these ideas into class on Thursday.
 
 * Are you missing any Learning Logs? Now is a great time to catch up or supplement any information you may need to complete your final project. 
     *RECOMMENDATION: Find a tutorial on Promises in Javascript in preparation for Thursday.
