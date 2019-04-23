@@ -17,6 +17,8 @@
         * [One guide to this process](https://scotch.io/tutorials/how-to-deploy-a-node-js-app-to-heroku)
         
         * [Deployment instructions on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
+        
+        * [Deployig a socket.io app](https://devcenter.heroku.com/articles/node-websockets#option-2-socket-io)
     
     * [Deploying a bot](https://shiffman.net/a2z/bot-heroku/)
     
