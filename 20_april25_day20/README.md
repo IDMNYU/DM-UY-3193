@@ -12,7 +12,7 @@
     * [What is Firebase?](https://www.youtube.com/watch?list=PLRqwX-V7Uu6agS82Le9lLCBbeaW8inATT&v=JrHT1iqSrAQ)
         * Watching from 07:00-08:50
         
-    * [Useful Firebase documentation]
+    * Useful Firebase documentation
         * [Saving data](https://firebase.google.com/docs/database/admin/save-data)
         * [Credentials](https://firebase.google.com/docs/reference/admin/node/admin.credential#.cert)
         * [Tutorial using FB documentation: Set Up Firebase in 4 steps](https://hackernoon.com/nodejs-setup-firebase-in-4-step-tutorial-example-easy-beginner-service-account-key-json-node-server-d61e803d6cc8)
