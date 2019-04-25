@@ -4,6 +4,13 @@
 
 * Quick lecture: Promises
 
+   * References on MDN:
+      
+      * [Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
+      * [Error.message](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error/message)
+      * [Template literals + string interpolation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
+      * [async](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
+
 * Databases with Firebase
 
     * [How to Firebase](https://howtofirebase.com/save-and-query-firebase-data-ed73fb8c6e3a)
