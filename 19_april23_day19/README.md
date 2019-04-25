@@ -17,6 +17,12 @@
         * [One guide to this process](https://scotch.io/tutorials/how-to-deploy-a-node-js-app-to-heroku)
         
         * [Deployment instructions on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
+        
+        * [Preparing codebase for Heroku](https://devcenter.heroku.com/articles/preparing-a-codebase-for-heroku-deployment)
+        
+        * [Deployig a socket.io app](https://devcenter.heroku.com/articles/node-websockets#option-2-socket-io)
+        
+        * [Config with Heroku](https://devcenter.heroku.com/articles/config-vars)
     
     * [Deploying a bot](https://shiffman.net/a2z/bot-heroku/)
     
@@ -29,7 +35,7 @@
 
 ### Homework
 
-* Final project brainstorm! Write down at least 3 ideas of applications you'd like to build for your final project, and decide which you'd like to pursue. Talk with others in the class and/or use our Slack channel to communicate and decide if you'd like to work alone or team up with another classmate.
+* Final project brainstorm! Write down at least 3 ideas of applications you'd like to build for your final project, and decide which you'd like to pursue. Talk with others in the class and/or use our Slack channel to communicate and decide if you'd like to work alone or team up with another classmate. Bring these ideas into class on Thursday.
 
 * Are you missing any Learning Logs? Now is a great time to catch up or supplement any information you may need to complete your final project. 
     *RECOMMENDATION: Find a tutorial on Promises in Javascript in preparation for Thursday.
