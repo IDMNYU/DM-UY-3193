@@ -4,6 +4,8 @@
 
 * Quick lecture: Promises
 
+  * [Link to code-along](https://repl.it/@sarahrose26/Promises-1)
+
    * References on MDN:
       
       * [Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
