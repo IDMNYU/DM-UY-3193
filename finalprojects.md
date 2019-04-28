@@ -20,8 +20,27 @@ Final Project Criteria:
 
 NOTE: All projects are due on May 7, regardless of presentation schedule.
 
-## Final Presentation Schedule TBD
+Final Project Presentations: Think of this like a pitch for your app. Sell us not only on your technical skills but also on WHY you decided to make it. Use any supporting materials (web references, slides, video, screen recordings, etc.) that are helpful in constructing this narrative. You should also demo your app and walk us through any key features of your code.
+
+## Final Presentation Schedule 
 
 May 7:
 
+1. Dougukan
+2. Emily
+3. Celia
+4. Wil
+5. Joe-L
+6. Richael
+7. Ikra
+
 May 9:
+
+1. Egret + Billy
+2. Sophie
+3. Luvneesh
+4. Shahriar
+5. Shehara
+6. Bertin
+
+
