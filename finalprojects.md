@@ -27,20 +27,19 @@ Final Project Presentations: Think of this like a pitch for your app. Sell us no
 May 7:
 
 1. Dougukan
-2. Emily
+2. Emily + Wil
 3. Celia
-4. Wil
-5. Joe-L
-6. Richael
-7. Ikra
+4. Joe-L
+5. Richael
+6. Ikra
 
 May 9:
 
 1. Egret + Billy
-2. Sophie
+2. Sophie + Bertin
 3. Luvneesh
 4. Shahriar
 5. Shehara
-6. Bertin
+
 
 
